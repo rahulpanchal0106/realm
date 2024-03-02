@@ -1,0 +1,9 @@
+{
+    "appId": "application-0-gizat",
+    "appUrl": "https://services.cloud.mongodb.com/groups/65e3481f85c7bd3ab65289ce/apps/65e35187f1128ebaaf7872ae",
+    "baseUrl": "https://services.cloud.mongodb.com",
+    "clientApiBaseUrl": "https://asia-south1.gcp.services.cloud.mongodb.com",
+    "dataApiBaseUrl": "https://asia-south1.gcp.data.mongodb-api.com",
+    "dataExplorerLink": "https://cloud.mongodb.com/links/65e3481f85c7bd3ab65289ce/explorer/Cluster0/database/collection/find",
+    "dataSourceName": "mongodb-atlas"
+}
